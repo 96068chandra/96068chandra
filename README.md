@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Chandrashekar J. " src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/chandrashekar-j-962a9021a/"><img width="80%" alt="Hello, I'm Chandrashekar J. " src="./assets/gh-readme-header.png" /></a></p>
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,C#)](https://skillicons.dev)
