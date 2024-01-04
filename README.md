@@ -10,7 +10,15 @@
   <p>🌱 I’m currently learning Blazor, Javascript, Cloud Computing</p>
   <p>👯 I’m looking to collaborate on .NET projects</p>
   <p>💬 Ask me about C#, Design Patterns, Blazor, MVC, WebAPI</p>
-  <p>📫 How to reach me: <a href="https://www.linkedin.com/in/chandrashekar-j-962a9021a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2FYykVi2SS8GWjlnERhF0Jg%3D%3D">LinkedIn</a></p>
+  <p>📫 How to reach me:
+    <!-- Instagram Link and Image -->
+<div align="center">
+  <a href="https://www.instagram.com/your_instagram_username/">
+    <img src="(https://skillicons.dev/icons?i=insta)](https://skillicons.dev)" alt="Instagram" />
+  </a>
+</div>
+
+  </p>
 </div>
 
 ## Skills
