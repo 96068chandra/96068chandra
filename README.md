@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi there 👋, I'm Chandrashekar J</h1>
+  <h3>Dotnet Full Stack Developer</h3>
+</div>
 
 <!-- **96068chandra/96068chandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
