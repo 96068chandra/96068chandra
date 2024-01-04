@@ -1,21 +1,19 @@
 ### Hi there 👋
 
-<!--
+!--
 **96068chandra/96068chandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on .NET projects
+🌱 I’m currently learning Blazor,Javascript,Cloud Computing
+👯 I’m looking to collaborate on .Net projects
+💬 Ask me about C#,Design Patterns,Blazor, MVC, WEBAPI
+📫 How to reach me: https://www.linkedin.com/in/chandrashekar-j-962a9021a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2FYykVi2SS8GWjlnERhF0Jg%3D%3D
 
-<p align="center"><a href="https://www.linkedin.com/in/chandrashekar-j-962a9021a/"><img width="80%" alt="Hello, I'm Chandrashekar J. " src="./assets/gh-readme-header.png" /></a></p>
+
+
+
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,C#)](https://skillicons.dev)
