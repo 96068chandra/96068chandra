@@ -4,12 +4,12 @@
 </div>
 
 <!-- **96068chandra/96068chandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-🔭 I’m currently working on .NET projects
-🌱 I’m currently learning Blazor, Javascript, Cloud Computing
-👯 I’m looking to collaborate on .NET projects
-💬 Ask me about C#, Design Patterns, Blazor, MVC, WebAPI
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chandrashekar-j-962a9021a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2FYykVi2SS8GWjlnERhF0Jg%3D%3D)
+**About me**
+-🔭 I’m currently working on .NET projects
+-🌱 I’m currently learning Blazor, Javascript, Cloud Computing
+-👯 I’m looking to collaborate on .NET projects
+-💬 Ask me about C#, Design Patterns, Blazor, MVC, WebAPI
+-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chandrashekar-j-962a9021a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2FYykVi2SS8GWjlnERhF0Jg%3D%3D)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=net,cs,js,html,css,git,visualstudio,github,bootstrap,blazor,)](https://skillicons.dev)
