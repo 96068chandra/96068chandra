@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Chandrashekar J. " src="./assets/gh-readme-header.png" /></a></p>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,C#)](https://skillicons.dev)
 
 
 ![96068chandra's Stats](https://github-readme-stats.vercel.app/api?username=96068chandra&theme=merko&show_icons=true&hide_border=false&count_private=false)
