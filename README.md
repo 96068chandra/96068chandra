@@ -18,13 +18,7 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Chandrashekar J. " src="./assets/gh-readme-header.png" /></a></p>
 
 ## Skills
-- ![C#](https://example.com/csharp-icon.png) C#
-- ![JavaScript](https://example.com/javascript-icon.png) JavaScript
-- ![HTML](https://example.com/html-icon.png) HTML
-- ![CSS](https://example.com/css-icon.png) CSS
-- ![MVC](https://example.com/mvc-icon.png) MVC
-- ![WebAPI](https://example.com/webapi-icon.png) WebAPI
-- ![.NET Core](https://example.com/dotnet-core-icon.png) .NET Core
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 ![96068chandra's Stats](https://github-readme-stats.vercel.app/api?username=96068chandra&theme=merko&show_icons=true&hide_border=false&count_private=false)
