@@ -9,7 +9,7 @@
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chandrashekar-j-962a9021a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2FYykVi2SS8GWjlnERhF0Jg%3D%3D)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=net,js,html,css,blazor,csharp,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=net,js,html,css,blazor,cs,)](https://skillicons.dev)
 
 ![96068chandra's Stats](https://github-readme-stats.vercel.app/api?username=96068chandra&theme=merko&show_icons=true&hide_border=false&count_private=true)
 ![96068chandra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=96068chandra&theme=merko&hide_border=false)
