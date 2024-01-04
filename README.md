@@ -10,10 +10,10 @@
   <p>🌱 I’m currently learning Blazor, Javascript, Cloud Computing</p>
   <p>👯 I’m looking to collaborate on .NET projects</p>
   <p>💬 Ask me about C#, Design Patterns, Blazor, MVC, WebAPI</p>
-  
-    <!-- Instagram Link and Image -->
-<div>
   <p>📫 How to reach me:
+   
+<div>
+  
   <a href="https://www.instagram.com/your_instagram_username/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
