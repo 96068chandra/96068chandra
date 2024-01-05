@@ -14,7 +14,7 @@
    
 <div>
   
-  <a href="https://www.instagram.com/your_instagram_username/">
+  <a href="https://www.instagram.com/chandra_r_j/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/chandrashekar-j-962a9021a/">
